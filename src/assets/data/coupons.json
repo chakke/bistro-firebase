@@ -1,0 +1,7 @@
+{
+    "coupons": [
+        { "id": "00", "name": "Giảm ngay 5% tổng hóa đơn vào ngày sinh nhật", "time_start": "", "time_end": "", "type": 0, "state": 0, "money": 0, "percent": 5 },
+        { "id": "01", "name": "Giảm 200K nhân dịp sinh nhật lần thứ 10 của Nhà Hàng.", "time_start": "", "time_end": "", "type": 1, "state": 0, "money": 200000, "percent": 0 }
+    ]
+
+}
