@@ -1,9 +1,8 @@
 {
     "foods": [{
             "id": "1",
-
             "album_id": "",
-            "category": 1,
+            "category": "01",
             "currency": "VND",
             "description": "",
             "en_name": "beef au vin noodle soup",
@@ -22,7 +21,7 @@
             "id": "2",
 
             "album_id": "",
-            "category": 1,
+            "category": "01",
             "currency": "VND",
             "description": "",
             "en_name": "chicken noodle soup(weekend only)",
@@ -41,7 +40,7 @@
             "id": "3",
 
             "album_id": "",
-            "category": 1,
+            "category": "01",
             "currency": "VND",
             "description": "",
             "en_name": "sour spare rib noodle soup",
@@ -60,7 +59,7 @@
             "id": "4",
 
             "album_id": "",
-            "category": 1,
+            "category": "01",
             "currency": "VND",
             "description": "",
             "en_name": "beef au vin bread",
@@ -79,7 +78,7 @@
             "id": "5",
 
             "album_id": "",
-            "category": 1,
+            "category": "01",
             "currency": "VND",
             "description": "",
             "en_name": "beef au vin bread",
@@ -98,7 +97,7 @@
             "id": "6",
 
             "album_id": "",
-            "category": 1,
+            "category": "01",
             "currency": "VND",
             "description": "",
             "en_name": "beef au vin bread",
@@ -117,7 +116,7 @@
             "id": "7",
 
             "album_id": "",
-            "category": 1,
+            "category": "01",
             "currency": "VND",
             "description": "",
             "en_name": "spaghetti bolognese",
@@ -136,7 +135,7 @@
             "id": "8",
 
             "album_id": "",
-            "category": 1,
+            "category": "01",
             "currency": "VND",
             "description": "",
             "en_name": "bibimbap karaan rice ",
@@ -153,9 +152,8 @@
         },
         {
             "id": "9",
-
             "album_id": "",
-            "category": 1,
+            "category": "01",
             "currency": "VND",
             "description": "",
             "en_name": "beefsteak wth black peppper sauce ",
@@ -172,9 +170,8 @@
         },
         {
             "id": "10",
-
             "album_id": "",
-            "category": 1,
+            "category": "01",
             "currency": "VND",
             "description": "",
             "en_name": "beefsteak wth black peppper sauce ",
@@ -193,7 +190,7 @@
             "id": "11",
 
             "album_id": "",
-            "category": 1,
+            "category": "01",
             "currency": "VND",
             "description": "",
             "en_name": "beefsteak wth mushroom sauce ",
@@ -212,7 +209,7 @@
             "id": "12",
 
             "album_id": "",
-            "category": 1,
+            "category": "01",
             "currency": "VND",
             "description": "",
             "en_name": "beefsteak wth mushroom sauce ",
@@ -231,7 +228,7 @@
             "id": "13",
 
             "album_id": "",
-            "category": 1,
+            "category": "01",
             "currency": "VND",
             "description": "",
             "en_name": "baked samon wth cheese ",
@@ -250,7 +247,7 @@
             "id": "14",
 
             "album_id": "",
-            "category": 1,
+            "category": "01",
             "currency": "VND",
             "description": "",
             "en_name": " fried potato",
@@ -269,7 +266,7 @@
             "id": "15",
 
             "album_id": "",
-            "category": 1,
+            "category": "01",
             "currency": "VND",
             "description": "",
             "en_name": " omelet bread",
@@ -288,7 +285,7 @@
             "id": "16",
 
             "album_id": "",
-            "category": 1,
+            "category": "01",
             "currency": "VND",
             "description": "",
             "en_name": " omelet bread",
@@ -307,7 +304,7 @@
             "id": "17",
 
             "album_id": "",
-            "category": 1,
+            "category": "01",
             "currency": "VND",
             "description": "",
             "en_name": " bread wth hotdog",
@@ -326,7 +323,7 @@
             "id": "18",
 
             "album_id": "",
-            "category": 1,
+            "category": "01",
             "currency": "VND",
             "description": "",
             "en_name": " bread wth egg and vietnamese vagatable",
@@ -345,7 +342,7 @@
             "id": "19",
 
             "album_id": "",
-            "category": 1,
+            "category": "01",
             "currency": "VND",
             "description": "",
             "en_name": " assorted bread",
@@ -364,7 +361,7 @@
             "id": "20",
 
             "album_id": "",
-            "category": 1,
+            "category": "01",
             "currency": "VND",
             "description": "",
             "en_name": " bread wth milk",
@@ -383,7 +380,7 @@
             "id": "21",
 
             "album_id": "",
-            "category": 1,
+            "category": "01",
             "currency": "VND",
             "description": "",
             "en_name": " beef au vin instant noodle",
@@ -402,7 +399,7 @@
             "id": "22",
 
             "album_id": "",
-            "category": 1,
+            "category": "01",
             "currency": "VND",
             "description": "",
             "en_name": " instant noodle wth egg",
@@ -421,7 +418,7 @@
             "id": "23",
 
             "album_id": "",
-            "category": 1,
+            "category": "01",
             "currency": "VND",
             "description": "",
             "en_name": " frui salad",
@@ -440,7 +437,7 @@
             "id": "24",
 
             "album_id": "",
-            "category": 1,
+            "category": "01",
             "currency": "VND",
             "description": "",
             "en_name": " vegertable salad",
@@ -459,7 +456,7 @@
             "id": "25",
 
             "album_id": "",
-            "category": 1,
+            "category": "01",
             "currency": "VND",
             "description": "",
             "en_name": " cucumber",
@@ -478,7 +475,7 @@
             "id": "26",
 
             "album_id": "",
-            "category": 1,
+            "category": "01",
             "currency": "VND",
             "description": "",
             "en_name": "hotdog",
@@ -497,7 +494,7 @@
             "id": "27",
 
             "album_id": "",
-            "category": 1,
+            "category": "01",
             "currency": "VND",
             "description": "",
             "en_name": "stichy rice wth caramelized pork",
@@ -516,7 +513,7 @@
             "id": "28",
 
             "album_id": "",
-            "category": 1,
+            "category": "01",
             "currency": "VND",
             "description": "",
             "en_name": "chiken stichy rice(weekend only)",
@@ -535,7 +532,7 @@
             "id": "29",
 
             "album_id": "",
-            "category": 1,
+            "category": "01",
             "currency": "VND",
             "description": "",
             "en_name": "stichy rice wth vietnamese pork sausage and hotdog",
@@ -554,7 +551,7 @@
             "id": "30",
 
             "album_id": "",
-            "category": 1,
+            "category": "01",
             "currency": "VND",
             "description": "",
             "en_name": "stichy rice wth vietnames hotdog",
@@ -573,7 +570,7 @@
             "id": "31",
 
             "album_id": "",
-            "category": 1,
+            "category": "01",
             "currency": "VND",
             "description": "",
             "en_name": "omeletst sticky rice",
@@ -592,7 +589,7 @@
             "id": "32",
 
             "album_id": "",
-            "category": 1,
+            "category": "01",
             "currency": "VND",
             "description": "",
             "en_name": "sticky rice wth vietnamese pork sausage",
@@ -611,7 +608,7 @@
             "id": "33",
 
             "album_id": "",
-            "category": 2,
+            "category": "02",
             "currency": "VND",
             "description": "",
             "en_name": "balack coffee(hot/ice/shake/instant)",
@@ -630,7 +627,7 @@
             "id": "34",
 
             "album_id": "",
-            "category": 2,
+            "category": "02",
             "currency": "VND",
             "description": "",
             "en_name": "milk coffee(hot ice/milkshake/instant",
@@ -649,7 +646,7 @@
             "id": "35",
 
             "album_id": "",
-            "category": 2,
+            "category": "02",
             "currency": "VND",
             "description": "",
             "en_name": "hongcong style coffee",
@@ -668,7 +665,7 @@
             "id": "36",
 
             "album_id": "",
-            "category": 2,
+            "category": "02",
             "currency": "VND",
             "description": "",
             "en_name": "mint coffee",
@@ -687,7 +684,7 @@
             "id": "37",
 
             "album_id": "",
-            "category": 2,
+            "category": "02",
             "currency": "VND",
             "description": "",
             "en_name": "saigon style coffee",
@@ -706,7 +703,7 @@
             "id": "38",
 
             "album_id": "",
-            "category": 3,
+            "category": "03",
             "currency": "VND",
             "description": "",
             "en_name": "Espresso",
@@ -725,7 +722,7 @@
             "id": "39",
 
             "album_id": "",
-            "category": 3,
+            "category": "03",
             "currency": "VND",
             "description": "",
             "en_name": "espresso maccchiata",
@@ -744,7 +741,7 @@
             "id": "40",
 
             "album_id": "",
-            "category": 3,
+            "category": "03",
             "currency": "VND",
             "description": "",
             "en_name": "americano",
@@ -763,7 +760,7 @@
             "id": "41",
 
             "album_id": "",
-            "category": 3,
+            "category": "03",
             "currency": "VND",
             "description": "",
             "en_name": "latte",
@@ -782,7 +779,7 @@
             "id": "42",
 
             "album_id": "",
-            "category": 3,
+            "category": "03",
             "currency": "VND",
             "description": "",
             "en_name": "matchalette",
@@ -801,7 +798,7 @@
             "id": "43",
 
             "album_id": "",
-            "category": 3,
+            "category": "03",
             "currency": "VND",
             "description": "",
             "en_name": "caramel matcahto",
@@ -820,7 +817,7 @@
             "id": "44",
 
             "album_id": "",
-            "category": 3,
+            "category": "03",
             "currency": "VND",
             "description": "",
             "en_name": "campucino",
@@ -839,7 +836,7 @@
             "id": "45",
 
             "album_id": "",
-            "category": 3,
+            "category": "03",
             "currency": "VND",
             "description": "",
             "en_name": "halzenuf coffee",
@@ -858,7 +855,7 @@
             "id": "46",
 
             "album_id": "",
-            "category": 3,
+            "category": "03",
             "currency": "VND",
             "description": "",
             "en_name": "chocolate",
@@ -877,7 +874,7 @@
             "id": "47",
 
             "album_id": "",
-            "category": 3,
+            "category": "03",
             "currency": "VND",
             "description": "",
             "en_name": "mocha",
@@ -896,7 +893,7 @@
             "id": "48",
 
             "album_id": "",
-            "category": 4,
+            "category": "04",
             "currency": "VND",
             "description": "",
             "en_name": "oreo cookies",
@@ -915,7 +912,7 @@
             "id": "49",
 
             "album_id": "",
-            "category": 4,
+            "category": "04",
             "currency": "VND",
             "description": "",
             "en_name": "caramel coffee",
@@ -934,7 +931,7 @@
             "id": "50",
 
             "album_id": "",
-            "category": 4,
+            "category": "04",
             "currency": "VND",
             "description": "",
             "en_name": "chocolate",
@@ -953,7 +950,7 @@
             "id": "51",
 
             "album_id": "",
-            "category": 4,
+            "category": "04",
             "currency": "VND",
             "description": "",
             "en_name": "mint chocolate",
@@ -972,7 +969,7 @@
             "id": "52",
 
             "album_id": "",
-            "category": 4,
+            "category": "04",
             "currency": "VND",
             "description": "",
             "en_name": "coconut milk coffee",
@@ -991,7 +988,7 @@
             "id": "53",
 
             "album_id": "",
-            "category": 4,
+            "category": "04",
             "currency": "VND",
             "description": "",
             "en_name": "hazelnut coffee",
@@ -1010,7 +1007,7 @@
             "id": "54",
 
             "album_id": "",
-            "category": 5,
+            "category": "05",
             "currency": "VND",
             "description": "",
             "en_name": "mocha coffee",
@@ -1029,7 +1026,7 @@
             "id": "55",
 
             "album_id": "",
-            "category": 5,
+            "category": "05",
             "currency": "VND",
             "description": "",
             "en_name": "moch cacau",
@@ -1048,7 +1045,7 @@
             "id": "56",
 
             "album_id": "",
-            "category": 5,
+            "category": "05",
             "currency": "VND",
             "description": "",
             "en_name": "mocha chocolate",
@@ -1067,7 +1064,7 @@
             "id": "57",
 
             "album_id": "",
-            "category": 5,
+            "category": "05",
             "currency": "VND",
             "description": "",
             "en_name": "mocha mint",
@@ -1086,7 +1083,7 @@
             "id": "58",
 
             "album_id": "",
-            "category": 5,
+            "category": "05",
             "currency": "VND",
             "description": "",
             "en_name": "mocha yogurt",
@@ -1105,7 +1102,7 @@
             "id": "59",
 
             "album_id": "",
-            "category": 6,
+            "category": "06",
             "currency": "VND",
             "description": "",
             "en_name": "matcha",
@@ -1124,7 +1121,7 @@
             "id": "60",
 
             "album_id": "",
-            "category": 6,
+            "category": "06",
             "currency": "VND",
             "description": "",
             "en_name": "matcha mint",
@@ -1143,7 +1140,7 @@
             "id": "61",
 
             "album_id": "",
-            "category": 6,
+            "category": "06",
             "currency": "VND",
             "description": "",
             "en_name": "matcha blueberry",
@@ -1162,7 +1159,7 @@
             "id": "62",
 
             "album_id": "",
-            "category": 6,
+            "category": "06",
             "currency": "VND",
             "description": "",
             "en_name": "matcha milk",
@@ -1181,7 +1178,7 @@
             "id": "63",
 
             "album_id": "",
-            "category": 6,
+            "category": "06",
             "currency": "VND",
             "description": "",
             "en_name": "matcah passion fruit",
@@ -1200,7 +1197,7 @@
             "id": "64",
 
             "album_id": "",
-            "category": 6,
+            "category": "06",
             "currency": "VND",
             "description": "",
             "en_name": "matcah yoggurt",
@@ -1219,7 +1216,7 @@
             "id": "65",
 
             "album_id": "",
-            "category": 7,
+            "category": "07",
             "currency": "VND",
             "description": "",
             "en_name": "bluberry",
@@ -1238,7 +1235,7 @@
             "id": "66",
 
             "album_id": "",
-            "category": 7,
+            "category": "07",
             "currency": "VND",
             "description": "",
             "en_name": "starwberry",
@@ -1257,7 +1254,7 @@
             "id": "67",
 
             "album_id": "",
-            "category": 7,
+            "category": "07",
             "currency": "VND",
             "description": "",
             "en_name": "black grape",
@@ -1276,7 +1273,7 @@
             "id": "68",
 
             "album_id": "",
-            "category": 7,
+            "category": "07",
             "currency": "VND",
             "description": "",
             "en_name": "raspberry",
@@ -1295,7 +1292,7 @@
             "id": "69",
 
             "album_id": "",
-            "category": 8,
+            "category": "08",
             "currency": "VND",
             "description": "",
             "en_name": "mint",
@@ -1314,7 +1311,7 @@
             "id": "70",
 
             "album_id": "",
-            "category": 8,
+            "category": "08",
             "currency": "VND",
             "description": "",
             "en_name": "apple",
@@ -1333,7 +1330,7 @@
             "id": "71",
 
             "album_id": "",
-            "category": 8,
+            "category": "08",
             "currency": "VND",
             "description": "",
             "en_name": "strawberry",
@@ -1352,7 +1349,7 @@
             "id": "72",
 
             "album_id": "",
-            "category": 8,
+            "category": "08",
             "currency": "VND",
             "description": "",
             "en_name": "orange",
@@ -1371,7 +1368,7 @@
             "id": "73",
 
             "album_id": "",
-            "category": 8,
+            "category": "08",
             "currency": "VND",
             "description": "",
             "en_name": "blueberyy",
@@ -1390,7 +1387,7 @@
             "id": "74",
 
             "album_id": "",
-            "category": 8,
+            "category": "08",
             "currency": "VND",
             "description": "",
             "en_name": "blue sky",
@@ -1409,7 +1406,7 @@
             "id": "75",
 
             "album_id": "",
-            "category": 8,
+            "category": "08",
             "currency": "VND",
             "description": "",
             "en_name": "deep blue sea",
@@ -1428,7 +1425,7 @@
             "id": "76",
 
             "album_id": "",
-            "category": 9,
+            "category": "09",
             "currency": "VND",
             "description": "",
             "en_name": "watermelon",
@@ -1447,7 +1444,7 @@
             "id": "77",
 
             "album_id": "",
-            "category": 9,
+            "category": "09",
             "currency": "VND",
             "description": "",
             "en_name": "passion snow",
@@ -1466,7 +1463,7 @@
             "id": "78",
 
             "album_id": "",
-            "category": 9,
+            "category": "09",
             "currency": "VND",
             "description": "",
             "en_name": "passion snow",
@@ -1485,7 +1482,7 @@
             "id": "79",
 
             "album_id": "",
-            "category": 9,
+            "category": "09",
             "currency": "VND",
             "description": "",
             "en_name": "passion fruit snow",
@@ -1504,7 +1501,7 @@
             "id": "80",
 
             "album_id": "",
-            "category": 9,
+            "category": "09",
             "currency": "VND",
             "description": "",
             "en_name": "coconut milk",
@@ -1523,7 +1520,7 @@
             "id": "81",
 
             "album_id": "",
-            "category": 9,
+            "category": "09",
             "currency": "VND",
             "description": "",
             "en_name": "coconut and strawberry",
@@ -1542,7 +1539,7 @@
             "id": "82",
 
             "album_id": "",
-            "category": 9,
+            "category": "09",
             "currency": "VND",
             "description": "",
             "en_name": "blueberry",
@@ -1561,7 +1558,7 @@
             "id": "83",
 
             "album_id": "",
-            "category": 9,
+            "category": "09",
             "currency": "VND",
             "description": "",
             "en_name": "orange",
@@ -1580,7 +1577,7 @@
             "id": "84",
 
             "album_id": "",
-            "category": 9,
+            "category": "09",
             "currency": "VND",
             "description": "",
             "en_name": "mango",
@@ -1599,7 +1596,7 @@
             "id": "85",
 
             "album_id": "",
-            "category": 9,
+            "category": "09",
             "currency": "VND",
             "description": "",
             "en_name": "soursop",
@@ -1618,7 +1615,7 @@
             "id": "86",
 
             "album_id": "",
-            "category": 9,
+            "category": "09",
             "currency": "VND",
             "description": "",
             "en_name": "soursop",
@@ -1637,7 +1634,7 @@
             "id": "87",
 
             "album_id": "",
-            "category": 9,
+            "category": "09",
             "currency": "VND",
             "description": "",
             "en_name": "avocado",
@@ -1656,7 +1653,7 @@
             "id": "88",
 
             "album_id": "",
-            "category": 9,
+            "category": "09",
             "currency": "VND",
             "description": "",
             "en_name": "avocado",
@@ -1675,7 +1672,7 @@
             "id": "89",
 
             "album_id": "",
-            "category": 9,
+            "category": "09",
             "currency": "VND",
             "description": "",
             "en_name": "avoccado and mango",
@@ -1694,7 +1691,7 @@
             "id": "90",
 
             "album_id": "",
-            "category": 9,
+            "category": "09",
             "currency": "VND",
             "description": "",
             "en_name": "avoccado and yogurt",
@@ -1713,7 +1710,7 @@
             "id": "91",
 
             "album_id": "",
-            "category": 9,
+            "category": "09",
             "currency": "VND",
             "description": "",
             "en_name": "sốp and yogurt",
@@ -1732,7 +1729,7 @@
             "id": "92",
 
             "album_id": "",
-            "category": 10,
+            "category": "10",
             "currency": "VND",
             "description": "",
             "en_name": "fresh lemon",
@@ -1751,7 +1748,7 @@
             "id": "93",
 
             "album_id": "",
-            "category": 10,
+            "category": "10",
             "currency": "VND",
             "description": "",
             "en_name": "salty lemon",
@@ -1770,7 +1767,7 @@
             "id": "94",
 
             "album_id": "",
-            "category": 10,
+            "category": "10",
             "currency": "VND",
             "description": "",
             "en_name": "lemon ftruit",
@@ -1789,7 +1786,7 @@
             "id": "95",
 
             "album_id": "",
-            "category": 10,
+            "category": "10",
             "currency": "VND",
             "description": "",
             "en_name": "passion fruit",
@@ -1808,7 +1805,7 @@
             "id": "96",
 
             "album_id": "",
-            "category": 10,
+            "category": "10",
             "currency": "VND",
             "description": "",
             "en_name": "xiem coconut wth lotus seed flavor",
@@ -1827,7 +1824,7 @@
             "id": "97",
 
             "album_id": "",
-            "category": 10,
+            "category": "10",
             "currency": "VND",
             "description": "",
             "en_name": "lemon lemongrass",
@@ -1846,7 +1843,7 @@
             "id": "98",
 
             "album_id": "",
-            "category": 10,
+            "category": "10",
             "currency": "VND",
             "description": "",
             "en_name": "watermelon juice",
@@ -1865,7 +1862,7 @@
             "id": "99",
 
             "album_id": "",
-            "category": 10,
+            "category": "10",
             "currency": "VND",
             "description": "",
             "en_name": "watermelon juice",
@@ -1884,7 +1881,7 @@
             "id": "100",
 
             "album_id": "",
-            "category": 10,
+            "category": "10",
             "currency": "VND",
             "description": "",
             "en_name": "apple juice",
@@ -1903,7 +1900,7 @@
             "id": "101",
 
             "album_id": "",
-            "category": 10,
+            "category": "10",
             "currency": "VND",
             "description": "",
             "en_name": "apple and mint juice",
@@ -1922,7 +1919,7 @@
             "id": "102",
 
             "album_id": "",
-            "category": 10,
+            "category": "10",
             "currency": "VND",
             "description": "",
             "en_name": "guava juice",
@@ -1941,7 +1938,7 @@
             "id": "103",
 
             "album_id": "",
-            "category": 10,
+            "category": "10",
             "currency": "VND",
             "description": "",
             "en_name": "carrot juice",
@@ -1960,7 +1957,7 @@
             "id": "104",
 
             "album_id": "",
-            "category": 10,
+            "category": "10",
             "currency": "VND",
             "description": "",
             "en_name": "pineapple juice",
@@ -1979,7 +1976,7 @@
             "id": "105",
 
             "album_id": "",
-            "category": 10,
+            "category": "10",
             "currency": "VND",
             "description": "",
             "en_name": "orange and carrot juice",
@@ -1998,7 +1995,7 @@
             "id": "106",
 
             "album_id": "",
-            "category": 10,
+            "category": "10",
             "currency": "VND",
             "description": "",
             "en_name": "pineapple and guava juice",
@@ -2017,7 +2014,7 @@
             "id": "107",
 
             "album_id": "",
-            "category": 10,
+            "category": "10",
             "currency": "VND",
             "description": "",
             "en_name": "apple and guava juice",
@@ -2036,7 +2033,7 @@
             "id": "108",
 
             "album_id": "",
-            "category": 10,
+            "category": "10",
             "currency": "VND",
             "description": "",
             "en_name": "carrot and guava juice",
@@ -2055,7 +2052,7 @@
             "id": "109",
 
             "album_id": "",
-            "category": 10,
+            "category": "10",
             "currency": "VND",
             "description": "",
             "en_name": "orage and pineapple",
@@ -2074,7 +2071,7 @@
             "id": "110",
 
             "album_id": "",
-            "category": 10,
+            "category": "10",
             "currency": "VND",
             "description": "",
             "en_name": "orange juice(no ice/ice",
@@ -2093,7 +2090,7 @@
             "id": "111",
 
             "album_id": "",
-            "category": 10,
+            "category": "10",
             "currency": "VND",
             "description": "",
             "en_name": "appla-pineapple-mintjuice",
@@ -2112,7 +2109,7 @@
             "id": "112",
 
             "album_id": "",
-            "category": 11,
+            "category": "11",
             "currency": "VND",
             "description": "",
             "en_name": "condensed milk",
@@ -2131,7 +2128,7 @@
             "id": "113",
 
             "album_id": "",
-            "category": 11,
+            "category": "11",
             "currency": "VND",
             "description": "",
             "en_name": "fresh milk",
@@ -2150,7 +2147,7 @@
             "id": "114",
 
             "album_id": "",
-            "category": 11,
+            "category": "11",
             "currency": "VND",
             "description": "",
             "en_name": "cacau milk",
@@ -2169,7 +2166,7 @@
             "id": "115",
 
             "album_id": "",
-            "category": 11,
+            "category": "11",
             "currency": "VND",
             "description": "",
             "en_name": "chocolate milk",
@@ -2188,7 +2185,7 @@
             "id": "116",
 
             "album_id": "",
-            "category": 11,
+            "category": "11",
             "currency": "VND",
             "description": "",
             "en_name": "cacau strawberry",
@@ -2207,7 +2204,7 @@
             "id": "117",
 
             "album_id": "",
-            "category": 11,
+            "category": "11",
             "currency": "VND",
             "description": "",
             "en_name": "cacao mint milk",
@@ -2226,7 +2223,7 @@
             "id": "118",
 
             "album_id": "",
-            "category": 11,
+            "category": "11",
             "currency": "VND",
             "description": "",
             "en_name": "chocolate mint milk",
@@ -2245,7 +2242,7 @@
             "id": "119",
 
             "album_id": "",
-            "category": 11,
+            "category": "11",
             "currency": "VND",
             "description": "",
             "en_name": "chocolate cacao milk",
@@ -2264,7 +2261,7 @@
             "id": "120",
 
             "album_id": "",
-            "category": 12,
+            "category": "12",
             "currency": "VND",
             "description": "",
             "en_name": "assorted jelly yongurt",
@@ -2283,7 +2280,7 @@
             "id": "121",
 
             "album_id": "",
-            "category": 12,
+            "category": "12",
             "currency": "VND",
             "description": "",
             "en_name": "ice-blended yogurt",
@@ -2302,7 +2299,7 @@
             "id": "122",
 
             "album_id": "",
-            "category": 12,
+            "category": "12",
             "currency": "VND",
             "description": "",
             "en_name": "passion fruit yogurt",
@@ -2321,7 +2318,7 @@
             "id": "123",
 
             "album_id": "",
-            "category": 12,
+            "category": "12",
             "currency": "VND",
             "description": "",
             "en_name": "blueberry yogurt",
@@ -2340,7 +2337,7 @@
             "id": "124",
 
             "album_id": "",
-            "category": 12,
+            "category": "12",
             "currency": "VND",
             "description": "",
             "en_name": "strawberry yogurt",
@@ -2359,7 +2356,7 @@
             "id": "125",
 
             "album_id": "",
-            "category": 12,
+            "category": "12",
             "currency": "VND",
             "description": "",
             "en_name": "strawberry yogurt",
@@ -2378,7 +2375,7 @@
             "id": "12",
 
             "album_id": "",
-            "category": 12,
+            "category": "12",
             "currency": "VND",
             "description": "",
             "en_name": "orange-aloe yogurt",
@@ -2397,7 +2394,7 @@
             "id": "127",
 
             "album_id": "",
-            "category": 12,
+            "category": "12",
             "currency": "VND",
             "description": "",
             "en_name": "mint yogurt",
@@ -2416,7 +2413,7 @@
             "id": "128",
 
             "album_id": "",
-            "category": 12,
+            "category": "12",
             "currency": "VND",
             "description": "",
             "en_name": "jelly yogurt",
@@ -2435,7 +2432,7 @@
             "id": "129",
 
             "album_id": "",
-            "category": 12,
+            "category": "12",
             "currency": "VND",
             "description": "",
             "en_name": "cacao yogurt",
@@ -2454,7 +2451,7 @@
             "id": "130",
 
             "album_id": "",
-            "category": 12,
+            "category": "12",
             "currency": "VND",
             "description": "",
             "en_name": "baileys yogurt",
@@ -2473,7 +2470,7 @@
             "id": "131",
 
             "album_id": "",
-            "category": 12,
+            "category": "12",
             "currency": "VND",
             "description": "",
             "en_name": "baileys yogurt",
@@ -2492,7 +2489,7 @@
             "id": "132",
 
             "album_id": "",
-            "category": 12,
+            "category": "12",
             "currency": "VND",
             "description": "",
             "en_name": "baileys yogurt",
@@ -2511,7 +2508,7 @@
             "id": "133",
 
             "album_id": "",
-            "category": 13,
+            "category": "13",
             "currency": "VND",
             "description": "",
             "en_name": "assorted fruits",
@@ -2530,7 +2527,7 @@
             "id": "134",
 
             "album_id": "",
-            "category": 13,
+            "category": "13",
             "currency": "VND",
             "description": "",
             "en_name": "dragon ftuit",
@@ -2549,7 +2546,7 @@
             "id": "135",
 
             "album_id": "",
-            "category": 13,
+            "category": "13",
             "currency": "VND",
             "description": "",
             "en_name": "avocado",
@@ -2568,7 +2565,7 @@
             "id": "136",
 
             "album_id": "",
-            "category": 13,
+            "category": "13",
             "currency": "VND",
             "description": "",
             "en_name": "avocado",
@@ -2587,7 +2584,7 @@
             "id": "137",
 
             "album_id": "",
-            "category": 13,
+            "category": "13",
             "currency": "VND",
             "description": "",
             "en_name": "soursop",
@@ -2606,7 +2603,7 @@
             "id": "138",
 
             "album_id": "",
-            "category": 13,
+            "category": "13",
             "currency": "VND",
             "description": "",
             "en_name": "mango",
@@ -2625,7 +2622,7 @@
             "id": "139",
 
             "album_id": "",
-            "category": 13,
+            "category": "13",
             "currency": "VND",
             "description": "",
             "en_name": "mango",
@@ -2644,7 +2641,7 @@
             "id": "140",
 
             "album_id": "",
-            "category": 13,
+            "category": "13",
             "currency": "VND",
             "description": "",
             "en_name": "mango",
@@ -2663,7 +2660,7 @@
             "id": "141",
 
             "album_id": "",
-            "category": 13,
+            "category": "13",
             "currency": "VND",
             "description": "",
             "en_name": "mango",
@@ -2682,7 +2679,7 @@
             "id": "142",
 
             "album_id": "",
-            "category": 14,
+            "category": "14",
             "currency": "VND",
             "description": "",
             "en_name": "original panna cotta",
@@ -2701,7 +2698,7 @@
             "id": "143",
 
             "album_id": "",
-            "category": 14,
+            "category": "14",
             "currency": "VND",
             "description": "",
             "en_name": "pannna cotta passion/orage-aloe",
@@ -2720,7 +2717,7 @@
             "id": "144",
 
             "album_id": "",
-            "category": 14,
+            "category": "14",
             "currency": "VND",
             "description": "",
             "en_name": "pana cotta (strawberry grape/bluberry",
@@ -2739,7 +2736,7 @@
             "id": "145",
 
             "album_id": "",
-            "category": 14,
+            "category": "14",
             "currency": "VND",
             "description": "",
             "en_name": "caramen",
@@ -2758,7 +2755,7 @@
             "id": "146",
 
             "album_id": "",
-            "category": 14,
+            "category": "14",
             "currency": "VND",
             "description": "",
             "en_name": "red velvet",
@@ -2777,7 +2774,7 @@
             "id": "147",
 
             "album_id": "",
-            "category": 14,
+            "category": "14",
             "currency": "VND",
             "description": "",
             "en_name": "tiaramisu",
@@ -2796,7 +2793,7 @@
             "id": "148",
 
             "album_id": "",
-            "category": 15,
+            "category": "15",
             "currency": "VND",
             "description": "",
             "en_name": "apple tea",
@@ -2815,7 +2812,7 @@
             "id": "149",
 
             "album_id": "",
-            "category": 15,
+            "category": "15",
             "currency": "VND",
             "description": "",
             "en_name": "strawberry tea",
@@ -2834,7 +2831,7 @@
             "id": "150",
 
             "album_id": "",
-            "category": 15,
+            "category": "15",
             "currency": "VND",
             "description": "",
             "en_name": "ginger tea",
@@ -2853,7 +2850,7 @@
             "id": "151",
 
             "album_id": "",
-            "category": 15,
+            "category": "15",
             "currency": "VND",
             "description": "",
             "en_name": "mint tea",
@@ -2872,7 +2869,7 @@
             "id": "152",
 
             "album_id": "",
-            "category": 15,
+            "category": "15",
             "currency": "VND",
             "description": "",
             "en_name": "thái tea",
@@ -2891,7 +2888,7 @@
             "id": "153",
 
             "album_id": "",
-            "category": 15,
+            "category": "15",
             "currency": "VND",
             "description": "",
             "en_name": "apple and honey tea",
@@ -2910,7 +2907,7 @@
             "id": "154",
 
             "album_id": "",
-            "category": 15,
+            "category": "15",
             "currency": "VND",
             "description": "",
             "en_name": "peach tea",
@@ -2929,7 +2926,7 @@
             "id": "155",
 
             "album_id": "",
-            "category": 15,
+            "category": "15",
             "currency": "VND",
             "description": "",
             "en_name": "strawberry and milk tea",
@@ -2948,7 +2945,7 @@
             "id": "156",
 
             "album_id": "",
-            "category": 15,
+            "category": "15",
             "currency": "VND",
             "description": "",
             "en_name": "mint and milk tea",
@@ -2967,7 +2964,7 @@
             "id": "157",
 
             "album_id": "",
-            "category": 15,
+            "category": "15",
             "currency": "VND",
             "description": "",
             "en_name": "lipto milk tea",
@@ -2986,7 +2983,7 @@
             "id": "158",
 
             "album_id": "",
-            "category": 15,
+            "category": "15",
             "currency": "VND",
             "description": "",
             "en_name": "lipto lemon tea",
@@ -3005,7 +3002,7 @@
             "id": "159",
 
             "album_id": "",
-            "category": 15,
+            "category": "15",
             "currency": "VND",
             "description": "",
             "en_name": "lipton lemon and lemongrass tea",
@@ -3024,7 +3021,7 @@
             "id": "160",
 
             "album_id": "",
-            "category": 15,
+            "category": "15",
             "currency": "VND",
             "description": "",
             "en_name": "peach anh milk tea",
@@ -3043,7 +3040,7 @@
             "id": "161",
 
             "album_id": "",
-            "category": 15,
+            "category": "15",
             "currency": "VND",
             "description": "",
             "en_name": "peach anh passsion fruit",
@@ -3062,7 +3059,7 @@
             "id": "162",
 
             "album_id": "",
-            "category": 15,
+            "category": "15",
             "currency": "VND",
             "description": "",
             "en_name": "apple-cinnamon-mint tea",
@@ -3081,7 +3078,7 @@
             "id": "163",
 
             "album_id": "",
-            "category": 15,
+            "category": "15",
             "currency": "VND",
             "description": "",
             "en_name": "english tea",
@@ -3100,7 +3097,7 @@
             "id": "164",
 
             "album_id": "",
-            "category": 16,
+            "category": "16",
             "currency": "VND",
             "description": "",
             "en_name": "lavie",
@@ -3119,7 +3116,7 @@
             "id": "165",
 
             "album_id": "",
-            "category": 16,
+            "category": "16",
             "currency": "VND",
             "description": "",
             "en_name": "pepsi",
@@ -3138,7 +3135,7 @@
             "id": "166",
 
             "album_id": "",
-            "category": 16,
+            "category": "16",
             "currency": "VND",
             "description": "",
             "en_name": "7up",
@@ -3157,7 +3154,7 @@
             "id": "167",
 
             "album_id": "",
-            "category": 16,
+            "category": "16",
             "currency": "VND",
             "description": "",
             "en_name": "cocacola",
@@ -3176,7 +3173,7 @@
             "id": "168",
 
             "album_id": "",
-            "category": 16,
+            "category": "16",
             "currency": "VND",
             "description": "",
             "en_name": "redbull",
@@ -3195,7 +3192,7 @@
             "id": "169",
 
             "album_id": "",
-            "category": 16,
+            "category": "16",
             "currency": "VND",
             "description": "",
             "en_name": "saigon beer",
@@ -3214,7 +3211,7 @@
             "id": "170",
 
             "album_id": "",
-            "category": 16,
+            "category": "16",
             "currency": "VND",
             "description": "",
             "en_name": "tuburg beer",
@@ -3233,7 +3230,7 @@
             "id": "171",
 
             "album_id": "",
-            "category": 16,
+            "category": "16",
             "currency": "VND",
             "description": "",
             "en_name": "hanoi beer",
@@ -3252,7 +3249,7 @@
             "id": "172",
 
             "album_id": "",
-            "category": 16,
+            "category": "16",
             "currency": "VND",
             "description": "",
             "en_name": "truc bach beer",
@@ -3271,7 +3268,7 @@
             "id": "173",
 
             "album_id": "",
-            "category": 16,
+            "category": "16",
             "currency": "VND",
             "description": "",
             "en_name": "heineken beer",
@@ -3290,7 +3287,7 @@
             "id": "174",
 
             "album_id": "",
-            "category": 17,
+            "category": "17",
             "currency": "VND",
             "description": "",
             "en_name": "peanut",
@@ -3309,7 +3306,7 @@
             "id": "175",
 
             "album_id": "",
-            "category": 17,
+            "category": "17",
             "currency": "VND",
             "description": "",
             "en_name": "snack",
@@ -3328,7 +3325,7 @@
             "id": "176",
 
             "album_id": "",
-            "category": 17,
+            "category": "17",
             "currency": "VND",
             "description": "",
             "en_name": "drid beef(in packet)",
@@ -3347,7 +3344,7 @@
             "id": "177",
 
             "album_id": "",
-            "category": 17,
+            "category": "17",
             "currency": "VND",
             "description": "",
             "en_name": "dancer dried(on plate)",
@@ -3366,7 +3363,7 @@
             "id": "178",
 
             "album_id": "",
-            "category": 17,
+            "category": "17",
             "currency": "VND",
             "description": "",
             "en_name": "dried buffalo meat",
@@ -3385,7 +3382,7 @@
             "id": "179",
 
             "album_id": "",
-            "category": 17,
+            "category": "17",
             "currency": "VND",
             "description": "",
             "en_name": "sunflower seed(original flavor)",
@@ -3404,7 +3401,7 @@
             "id": "180",
 
             "album_id": "",
-            "category": 18,
+            "category": "18",
             "currency": "VND",
             "description": "",
             "en_name": "white horse",
@@ -3423,7 +3420,7 @@
             "id": "181",
 
             "album_id": "",
-            "category": 18,
+            "category": "18",
             "currency": "VND",
             "description": "",
             "en_name": "vinataba",
@@ -3442,7 +3439,7 @@
             "id": "182",
 
             "album_id": "",
-            "category": 18,
+            "category": "18",
             "currency": "VND",
             "description": "",
             "en_name": "anrlborom",
@@ -3461,7 +3458,7 @@
             "id": "183",
 
             "album_id": "",
-            "category": 18,
+            "category": "18",
             "currency": "VND",
             "description": "",
             "en_name": "555",
@@ -3480,7 +3477,7 @@
             "id": "184",
 
             "album_id": "",
-            "category": 19,
+            "category": "19",
             "currency": "VND",
             "description": "",
             "en_name": "durian",
@@ -3499,7 +3496,7 @@
             "id": "185",
 
             "album_id": "",
-            "category": 19,
+            "category": "19",
             "currency": "VND",
             "description": "",
             "en_name": "red bean anh brown rice",
@@ -3518,7 +3515,7 @@
             "id": "186",
 
             "album_id": "",
-            "category": 19,
+            "category": "19",
             "currency": "VND",
             "description": "",
             "en_name": "green bean",
@@ -3537,7 +3534,7 @@
             "id": "187",
 
             "album_id": "",
-            "category": 19,
+            "category": "19",
             "currency": "VND",
             "description": "",
             "en_name": "supper teen vani",
@@ -3556,7 +3553,7 @@
             "id": "188",
 
             "album_id": "",
-            "category": 19,
+            "category": "19",
             "currency": "VND",
             "description": "",
             "en_name": "supper teen dủian",
@@ -3575,7 +3572,7 @@
             "id": "189",
 
             "album_id": "",
-            "category": 19,
+            "category": "19",
             "currency": "VND",
             "description": "",
             "en_name": "cantie bear",
@@ -3594,7 +3591,7 @@
             "id": "190",
 
             "album_id": "",
-            "category": 19,
+            "category": "19",
             "currency": "VND",
             "description": "",
             "en_name": "yeah cacao",
@@ -3613,7 +3610,7 @@
             "id": "191",
 
             "album_id": "",
-            "category": 19,
+            "category": "19",
             "currency": "VND",
             "description": "",
             "en_name": "sweetie-vani",
@@ -3632,7 +3629,7 @@
             "id": "192",
 
             "album_id": "",
-            "category": 19,
+            "category": "19",
             "currency": "VND",
             "description": "",
             "en_name": "chocolate ice cream cone",
@@ -3651,7 +3648,7 @@
             "id": "193",
 
             "album_id": "",
-            "category": 19,
+            "category": "19",
             "currency": "VND",
             "description": "",
             "en_name": "strwbeberry ice cream cone",
@@ -3670,7 +3667,7 @@
             "id": "194",
 
             "album_id": "",
-            "category": 19,
+            "category": "19",
             "currency": "VND",
             "description": "",
             "en_name": "vanilla ice cream cone",
@@ -3689,7 +3686,7 @@
             "id": "195",
 
             "album_id": "",
-            "category": 19,
+            "category": "19",
             "currency": "VND",
             "description": "",
             "en_name": "hazelnut ice cream cone",
@@ -3708,7 +3705,7 @@
             "id": "196",
 
             "album_id": "",
-            "category": 19,
+            "category": "19",
             "currency": "VND",
             "description": "",
             "en_name": "vanilla cramel ice pop",
@@ -3727,7 +3724,7 @@
             "id": "197",
 
             "album_id": "",
-            "category": 19,
+            "category": "19",
             "currency": "VND",
             "description": "",
             "en_name": "yogurt raspberry ice pop",
@@ -3746,7 +3743,7 @@
             "id": "198",
 
             "album_id": "",
-            "category": 19,
+            "category": "19",
             "currency": "VND",
             "description": "",
             "en_name": "mochi green tea",
@@ -3765,7 +3762,7 @@
             "id": "199",
 
             "album_id": "",
-            "category": 19,
+            "category": "19",
             "currency": "VND",
             "description": "",
             "en_name": "socola extra ice cream cone",
@@ -3784,7 +3781,7 @@
             "id": "200",
 
             "album_id": "",
-            "category": 19,
+            "category": "19",
             "currency": "VND",
             "description": "",
             "en_name": "green tea ice cream cone",
@@ -3803,7 +3800,7 @@
             "id": "201",
 
             "album_id": "",
-            "category": 19,
+            "category": "19",
             "currency": "VND",
             "description": "",
             "en_name": "vannilla/strawberyy/coconut milk/chocolate/milk)",
@@ -3822,7 +3819,7 @@
             "id": "202",
 
             "album_id": "",
-            "category": 19,
+            "category": "19",
             "currency": "VND",
             "description": "",
             "en_name": "vannilla/strawberyy/coconut milk/chocolate/milk)",
@@ -3840,7 +3837,7 @@
         {
             "id": "203",
             "album_id": "",
-            "category": 19,
+            "category": "19",
             "currency": "VND",
             "description": "",
             "en_name": "vannilla/strawberyy/coconut milk/chocolate/milk)",

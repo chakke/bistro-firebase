@@ -38,12 +38,12 @@ export class BistroFoodsPage {
 
     this._ConnectToFirebase();
 
-    // this.mAngularFirestore.collection("storage/uploads/files").valueChanges().subscribe(data => {
-    //   data.forEach(item => {
-    //     this._DownloadUrls.set(item['name'], item['url']);
-    //   });
-    //   this._UploadFoods();
-    // });
+    this.mAngularFirestore.collection("storage/uploads/files").valueChanges().subscribe(data => {
+      data.forEach(item => {
+        this._DownloadUrls.set(item['name'], item['url']);
+      });
+      this._UploadFoods();
+    });
 
     // this._UploadTypes();
     // this._UploadCategories();
@@ -230,8 +230,7 @@ export class BistroFoodsPage {
       for (var foodDataKey in foods) {
         let food = foods[foodDataKey];
         food.firebase_id = food.id;
-        food.firebase_reference = collectionPath + "/" + food.id;
-
+        food.firebase_reference = collectionPath + "/" + food.id;        
         if (this._DownloadUrls.has(food.image)) {
           food.image = this._DownloadUrls.get(food.image);
         } else {

@@ -35,6 +35,6 @@ export class Food extends FirebaseObject{
     /**Nhóm nào : đồ ăn, thức uống, khác ... */
     type: number;
     /**Loại nào : cafe, matcha, trà sữa, ăn sáng , ... */
-    category: number;
+    category: string;
 
 }
