@@ -77,6 +77,8 @@ export class FoodOrder extends FirebaseObject {
     id: string;
     /**ID cuar order */
     order_id: string;
+    /**Nhân viên gọi món */
+    staff_id: string;
     /**Trạng thái của food trong order , xem thêm FoodOrderState*/
     state: number;
     /**Số lượng order */
@@ -111,19 +113,10 @@ export class Order extends FirebaseObject {
 
     /**ID của khu vực */
     area_id: string;
-    /**Tên khu vực */
-    area_name: string;
-    /**ID Bàn của order */
-    table_id: string;
-    /**Name bàn của order */
-    table_name: string;
-
-
-
+    /**Danh sách các bàn của order */
+    table_ids: Array<string>;
     /**ID nhân viên ghi order */
     staff_id: string;
-    /**Tên nhân viên ghi order */
-    staff_name: string;
-    /**Ảnh đại diện của nhân viên ghi order */
-    staff_avatar: string;
+    /**Ghi chú */
+    note: string;
 }

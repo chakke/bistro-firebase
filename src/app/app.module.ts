@@ -9,23 +9,23 @@ import { AngularFirestoreModule } from 'angularfire2/firestore';
 import { HttpClientModule } from '@angular/common/http';
 import { BistroProvider } from '../providers/bistro/bistro';
 
-// var firebaseConfig = {
-//   apiKey: "AIzaSyDMEZoEtmor-T166lP9bGCR9FxqQP4eGik",
-//   authDomain: "bistrodancerapp.firebaseapp.com",
-//   databaseURL: "https://bistrodancerapp.firebaseio.com",
-//   projectId: "bistrodancerapp",
-//   storageBucket: "bistrodancerapp.appspot.com",
-//   messagingSenderId: "773087969883"
-// };
-
 var firebaseConfig = {
-  apiKey: "AIzaSyDG_pauTdXELEjd-kB2FuEji4PJUURVQ78",
-  authDomain: "bistro-dancer.firebaseapp.com",
-  databaseURL: "https://bistro-dancer.firebaseio.com",
-  projectId: "bistro-dancer",
-  storageBucket: "bistro-dancer.appspot.com",
-  messagingSenderId: "796575514827"
+  apiKey: "AIzaSyDMEZoEtmor-T166lP9bGCR9FxqQP4eGik",
+  authDomain: "bistrodancerapp.firebaseapp.com",
+  databaseURL: "https://bistrodancerapp.firebaseio.com",
+  projectId: "bistrodancerapp",
+  storageBucket: "bistrodancerapp.appspot.com",
+  messagingSenderId: "773087969883"
 };
+
+// var firebaseConfig = {
+//   apiKey: "AIzaSyDG_pauTdXELEjd-kB2FuEji4PJUURVQ78",
+//   authDomain: "bistro-dancer.firebaseapp.com",
+//   databaseURL: "https://bistro-dancer.firebaseio.com",
+//   projectId: "bistro-dancer",
+//   storageBucket: "bistro-dancer.appspot.com",
+//   messagingSenderId: "796575514827"
+// };
 
 @NgModule({
   declarations: [
