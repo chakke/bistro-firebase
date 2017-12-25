@@ -119,4 +119,15 @@ export class Order extends FirebaseObject {
     staff_id: string;
     /**Ghi chú */
     note: string;
+
+    //=========Thông tin bổ sung (không bắt buộc)===========
+    /**Số lượng khách trong order này, nếu order có nhiều bàn, thì là tổng khách trên các bàn */
+    number_customers: number;
+    /** Tên khách hàng*/
+    customer_name: string;
+    /** Số điện thoại của khách hàng */
+    customer_phone: string;
+    /** ID của khách hàng, nếu đã tồn tại trên hệ thống */
+    customer_id: string;
+    
 }
